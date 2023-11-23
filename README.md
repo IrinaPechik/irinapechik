@@ -1,7 +1,7 @@
 Hi 👋 My name is Irina Pechik
 =============================
 
-Software Engineer, UX and Ui designer 🚀
+Software Engineer 🚀
 ---------------------------------
 
 👩‍🎓 I'm a student at the National Research University Higher School of Economics, Faculty of Computer Science, majoring in Software Engineering.
